@@ -1,1 +1,4 @@
 Bu ikinci dosyadır ve 2.commitimi burda attım
+
+
+Bu featin ilk commiti aynı zamanda 3.commitimdir
